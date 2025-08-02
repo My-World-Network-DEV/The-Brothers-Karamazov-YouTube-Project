@@ -1,0 +1,8 @@
+The Brothers Karamazov YouTube Project aims to explore how AI and human collaborators can transform classic literature into multimedia experiences.
+
+Goals:
+- Create a modular pipeline where each stage can be improved or swapped out.
+- Enable experimentation with text segmentation, dialogue attribution, audio synthesis, and image generation.
+- Provide clear artifacts (segments, audio files, image prompts, manifests) that downstream tools can consume.
+
+The structure of this repository is intentionally simple so that future contributors—human or AI—can extend the scripts, replace models, or integrate new technologies.
