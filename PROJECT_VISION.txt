@@ -1,0 +1,18 @@
+Project Vision
+==============
+
+The Brothers Karamazov YouTube Project explores how classic literature can be transformed into rich multimedia experiences with the help of AI.
+
+Goals
+-----
+* **Modular design** – each stage of the pipeline is independent and easily replaceable.
+* **Extensibility** – both humans and AI agents should be able to iterate on individual components without breaking the whole.
+* **Ethical sourcing** – this repository does not distribute copyrighted text. Users provide their own copy of the novel.
+
+Future Directions
+-----------------
+* Integrate real text-to-speech and image generation models.
+* Add timing and alignment information for smoother video assembly.
+* Generalize the pipeline to other works of literature.
+
+This structure is intentionally lightweight so that collaborators can expand it in whatever direction they find most interesting.
